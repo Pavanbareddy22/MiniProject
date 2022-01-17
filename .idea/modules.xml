@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Flask.py.iml" filepath="$PROJECT_DIR$/.idea/Flask.py.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/weatherapp.iml" filepath="$PROJECT_DIR$/.idea/weatherapp.iml" />
+>>>>>>> 4f9d3a5 (first commit)
     </modules>
   </component>
 </project>
